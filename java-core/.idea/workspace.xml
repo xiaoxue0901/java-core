@@ -5,85 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69f29217-05a4-419f-a394-05bc436306aa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/xql.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbcp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbcp2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/bean/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/bean/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/BufferedUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/FileInputStreamUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/FileReaderAndWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/FileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/OtherStreamUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/abstext1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/oldFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/relativeText2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/CreateObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/DynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/Fields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/MyAnnatation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/StaticProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/TestAOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap1/FilteringApples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap2/FilteringApples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap2/RealSamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap3/ExecuteAround.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap4/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap4/StreamBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap4/StreamVsCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap5/Finding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap5/GroupingBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap5/Mapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap5/Reducing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap5/Summarizing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/base/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/base/TestReflectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/base/io/OtherStreamUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/bean/Creature.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/bean/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/BufferedUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/FileInputStreamUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/FileReaderAndWriter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/FileUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/OtherStreamUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/abstext1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/oldFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/relativeText2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/ClothFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/CreateObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/DynamicProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/Fields.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/HumanUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/MyAnnatation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/MyAopInvocationHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/MyInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/MyInvocationHander.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/MyProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/NikeClothFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/ProxyClothFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/RealSubject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/StaticProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/Subject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/SuperMan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/TestAOP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/base/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/base/TestReflectTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/base/io/OtherStreamUtilTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_1/_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-redis/demo-redis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_muti_thread/demo_muti_thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_springboot/demo_springboot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/designpattern/singleton/DoubleCheckLockSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/designpattern/singleton/StaticInnerClassSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/designpattern/singleton/单例模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/springboot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,11 +69,6 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1382" />
-    <option name="height" value="797" />
-  </component>
   <component name="ProjectId" id="1js9bXFJRLUEZdmNtd3RPyAFCRe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -151,6 +77,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="pom&#9;FILE&#9;file:///Users/xql/workspace/github/java-core/pom.xml&#10;Comparator&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar!/java/util/Comparator.class&#10;@Sus&#9;PSI&#9;JAVA://javax.annotation.processing.SupportedSourceVersion" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -162,7 +89,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15223597" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -317,39 +244,15 @@
       <workItem from="1577610210273" duration="4709000" />
       <workItem from="1581382309289" duration="707000" />
     </task>
+    <task id="LOCAL-00001" summary="20201105 代码提交">
+      <created>1604583020770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604583020770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="TestReflectTest_test - 2019.11.21 at 23h 16m 58s.xml">
-      <configuration name="TestReflectTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestReflectTest_test4 - 2019.11.21 at 23h 20m 32s.xml">
-      <configuration name="TestReflectTest.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestReflectTest_test4 - 2019.11.21 at 23h 21m 37s.xml">
-      <configuration name="TestReflectTest.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 06m 41s.xml">
-      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 07m 26s.xml">
-      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 09m 40s.xml">
-      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 10m 35s.xml">
-      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 12m 05s.xml">
-      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 13m 07s.xml">
-      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 17m 14s.xml">
-      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="46783000" />
@@ -357,10 +260,30 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20201105 代码提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="20201105 代码提交" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="23" key="SettingsEditor" timestamp="1604582244189">
+    <state x="538" y="89" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604584704639">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="208" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1604582244189" />
+    <state x="538" y="89" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.797@0.23.1440.797" timestamp="1604584704639" />
+    <state x="297" y="23" key="CommitChangelistDialog2" timestamp="1604583020553">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="297" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1604583020553" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1604583850915">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1604583850915" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1604584069090">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1604584069090" />
+    <state x="442" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1604584761515">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="442" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1604584761515" />
   </component>
 </project>
