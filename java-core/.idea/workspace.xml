@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69f29217-05a4-419f-a394-05bc436306aa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/xql.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbcp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbcp2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/bean/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/bean/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/BufferedUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/FileInputStreamUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/FileReaderAndWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/OtherStreamUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/abstext1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/oldFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/io/relativeText2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/CreateObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/DynamicProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/Fields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/MyAnnatation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/StaticProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/base/reflect/TestAOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap1/FilteringApples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap2/FilteringApples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap2/RealSamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap3/ExecuteAround.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap4/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap4/StreamBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap4/StreamVsCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap5/Finding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap5/GroupingBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap5/Mapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap5/Reducing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/java8/chap5/Summarizing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/base/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/base/TestReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/base/io/OtherStreamUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/bean/Creature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/bean/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/BufferedUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/FileInputStreamUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/FileReaderAndWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/FileUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/OtherStreamUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/abstext1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/oldFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/io/relativeText2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/ClothFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/CreateObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/DynamicProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/Fields.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/HumanUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/MyAnnatation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/MyAopInvocationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/MyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/MyInvocationHander.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/MyProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/NikeClothFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/ProxyClothFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/RealSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/StaticProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/SuperMan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/base/reflect/TestAOP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/base/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/base/TestReflectTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/base/io/OtherStreamUtilTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compareTo</find>
+      <find>collectingAndThen</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/Library/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="$USER_HOME$/Library/apache-maven-3.5.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1382" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectId" id="1js9bXFJRLUEZdmNtd3RPyAFCRe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="pom&#9;FILE&#9;file:///Users/xql/workspace/github/java-core/pom.xml&#10;Comparator&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar!/java/util/Comparator.class&#10;@Sus&#9;PSI&#9;JAVA://javax.annotation.processing.SupportedSourceVersion" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15223597" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.demo.base.io" />
+      <recent name="com.demo.base" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.java8.chap5" />
+      <recent name="com.demo.java8.chap2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/demo/java8" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/demo/base/io" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Summarizing">
+    <configuration name="FilteringApples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.java8.chap1.FilteringApples" />
+      <module name="java-core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.java8.chap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Finding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.java8.chap5.Finding" />
+      <module name="java-core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.java8.chap5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.java8.chap5.Mapping" />
+      <module name="java-core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.java8.chap5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RealSamp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.java8.chap2.RealSamp" />
+      <module name="java-core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.java8.chap2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Summarizing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.java8.chap5.Summarizing" />
+      <module name="java-core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.java8.chap5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FilteringApples" />
+      <item itemvalue="Application.RealSamp" />
+      <item itemvalue="Application.Mapping" />
+      <item itemvalue="Application.Finding" />
+      <item itemvalue="Application.Summarizing" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Summarizing" />
+        <item itemvalue="Application.Finding" />
+        <item itemvalue="Application.Mapping" />
+        <item itemvalue="Application.RealSamp" />
+        <item itemvalue="Application.FilteringApples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69f29217-05a4-419f-a394-05bc436306aa" name="Default" comment="" />
+      <created>1574088944569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574088944569</updated>
+      <workItem from="1574088945927" duration="8260000" />
+      <workItem from="1574437268013" duration="1586000" />
+      <workItem from="1574439685436" duration="354000" />
+      <workItem from="1574568522809" duration="3696000" />
+      <workItem from="1574858290708" duration="4132000" />
+      <workItem from="1574952530980" duration="5306000" />
+      <workItem from="1575983256889" duration="756000" />
+      <workItem from="1576597157938" duration="586000" />
+      <workItem from="1576597776138" duration="4313000" />
+      <workItem from="1576674197878" duration="4645000" />
+      <workItem from="1577369692300" duration="5830000" />
+      <workItem from="1577553401655" duration="1903000" />
+      <workItem from="1577610210273" duration="4709000" />
+      <workItem from="1581382309289" duration="707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestReflectTest_test - 2019.11.21 at 23h 16m 58s.xml">
+      <configuration name="TestReflectTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReflectTest_test4 - 2019.11.21 at 23h 20m 32s.xml">
+      <configuration name="TestReflectTest.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestReflectTest_test4 - 2019.11.21 at 23h 21m 37s.xml">
+      <configuration name="TestReflectTest.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 06m 41s.xml">
+      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 07m 26s.xml">
+      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 09m 40s.xml">
+      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 10m 35s.xml">
+      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 12m 05s.xml">
+      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 13m 07s.xml">
+      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OtherStreamUtilTest_stdStream - 2019.12.01 at 20h 17m 14s.xml">
+      <configuration name="OtherStreamUtilTest.stdStream" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46783000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" key="SettingsEditor" timestamp="1604582244189">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1604582244189" />
+  </component>
+</project>
